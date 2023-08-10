@@ -1,0 +1,11 @@
+{
+  "ui:options": {
+    "submitButtonOptions": {
+      "props": {
+        "disabled": false,
+        "className": "btn btn-info"
+      },
+      "norender": false
+    }
+  }
+}

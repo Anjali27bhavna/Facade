@@ -1,0 +1,36 @@
+.create{
+    background-image: linear-gradient(to right, rgb(142, 171, 233) , rgb(156, 65, 179));
+    background-size: cover;
+    overflow: auto;
+    /* height: 100%; */
+    /* background-color: rgb(229, 219, 253); */
+  
+}
+h3{
+    display: flex;
+    justify-content: center;
+}
+.get{
+    /* background-color: rgb(233, 236, 240); */
+    background-image: linear-gradient(to right, rgb(243, 245, 92) , rgb(19, 216, 140));
+    background-size: cover;
+    overflow: auto;
+    /* height: 34vh; */
+}
+
+.outerdiv{
+    overflow-y: hidden;
+    
+}
+
+.update{
+    background-image: linear-gradient(to right, rgb(112, 188, 238) , rgb(216, 20, 20));
+    background-size: cover;
+    overflow: auto;
+    height: 100vh;
+}
+
+.update h3{
+    display: flex;
+    justify-content: center;
+}
